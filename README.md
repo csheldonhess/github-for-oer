@@ -38,7 +38,8 @@ The 4-6 R's
 * Changes are tracked over time, and you can look at the history of a project -- and even go back to a previous version, if you care to do so
 
 
-
+In process; ignore
+------------------------
 Examples of GitHub-based learning objects (the first is, itself, a GitHub-based learning object):
 https://evanwill.github.io/make-oer/content/3-examples.html
 https://jupyter4edu.github.io/jupyter-edu-book/
