@@ -9,11 +9,11 @@ What is GitHub?
 Originally created to help people share and build on each other's code, GitHub is what's known as a "version control" system. Version control solves this problem:
 [![a bunch of file names for the same file](images/phd052810s.gif)](http://phdcomics.com/comics/archive.php?comicid=1323)
 
-Additionally, GitHub solves the problem of keeping your projects safe&mdash;backed up to the cloud&mdash;and making it easy* to share and collaborate on with other people.
+Additionally, GitHub solves the problem of keeping your projects safe&mdash;backed up to the cloud&mdash;and making it easy\* to share and collaborate on with other people.
 
 GitHub is only one of the many version control solutions available, but it's probably the most popular, not only with programmers, but with academics of all stripes (technical and non-technical). It has apps for Windows, Mac, and Linux.
 
-* OK, it takes a few hours to really get down how it works, maybe a full day to get to the point where you're comfortable enough with it to collaborate on a bigger project. There's a learning curve, but it's like anything: easy once you know how to do it.
+\* OK, it takes a few hours to really get down how it works, maybe a full day to get to the point where you're comfortable enough with it to collaborate on a bigger project. There's a learning curve, but it's like anything: easy once you know how to do it.
 
 The 4-6 R's
 -----------
