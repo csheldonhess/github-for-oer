@@ -37,24 +37,43 @@ The 4-6 R's
 * People can file "bug reports" on your projects, and they can offer updates that the project owner(s) can accept or reject
 * Changes are tracked over time, and you can look at the history of a project -- and even go back to a previous version, if you care to do so
 
+Examples of OERs using GitHub
+-----------------------------
+We're going up in scale from "not fancy" to "really fancy," although when I'm talking about this I might show them to you in reverse order.
+
+### Really just using GitHub as version control for the source code that runs their class website
+* [Hacking Humanities](https://github.com/karlstolley/hh) - I want to be clear: this is entirely valid and great, and it makes these webpages easier to reuse/remix than if they were just sitting on the school's server. I absolutely count this as an OER, whether or not this is what people mean when they say "OERs on GitHub."
+
+
+### Using basic GitHub repositories with Markdown files and/or Jupyter notebooks to hold most of the content
+* this one, right here, that you are looking at 
+* [my Python 1 course for CCAC](https://github.com/csheldonhess/dat-119-2019-spring), which is based heavily on [Elizabeth Wickes's Python 1 course for library students](https://github.com/elliewix/IS-452-Fall2018) - Jupyter notebooks are interactive when you download them to your machine, although GitHub renders a version of them on the cloud, as well. They're good teaching tools if you're doing Python, R, or SAS, and GitHub's a good place to store them.
+* [Command Line Bootcamp](https://github.com/csheldonhess/c4l16-cli-workshop) - A colleague and I (so you can see that this is an example of a project with forks) built this together and co-ran this workshop a couple of years ago. Other people have forked it, changed it, and re-run it their own way. 
+
+### Using GitHub to serve static webpages
+* https://evanwill.github.io/make-oer
+* https://swcarpentry.github.io/git-novice/
+* https://jupyter4edu.github.io/jupyter-edu-book/
+
+
+### Honorable mention: syllabi in GitHub 
+(This concept has been stuck in my head since I read [the ProfHacker article on it](https://www.chronicle.com/blogs/profhacker/forking-your-syllabus/39137). There's also a [howto](https://www.chronicle.com/blogs/profhacker/how-to-fork-a-syllabus-on-github/39447).)
+
+* [MO4971 City in East and Southeast Asia 1850-1950](https://github.com/kmlawson/city-in-east-and-southeast-asia) - Most of the content is in Markdown files, but there's a LaTeX file, as well.
+* [Public Opinion, Political Psychology and Citizenship](https://github.com/leeper/opinioncourse) - A few of the course materials seem to be included in this one, actually, not just the syllabus. It also has a "[why GitHub](https://github.com/leeper/opinioncourse/blob/gh-pages/fork.md)" section, which is cool.
 
 In process; ignore
 ------------------------
 Examples of GitHub-based learning objects (the first is, itself, a GitHub-based learning object):
 https://evanwill.github.io/make-oer/content/3-examples.html
 https://jupyter4edu.github.io/jupyter-edu-book/
+https://swcarpentry.github.io/git-novice/
 https://github.com/thomsen-m/FAM-OER
 http://peeragogy.github.io/
 
 Writing an article on GitHub:
 https://www.wired.com/2012/02/github-revisited/
 
-Backing up your course website on GitHub (an example of one course):
-https://github.com/karlstolley/hh
-
-Syllabi on GitHub:
-https://www.chronicle.com/blogs/profhacker/forking-your-syllabus/39137
-https://www.chronicle.com/blogs/profhacker/how-to-fork-a-syllabus-on-github/39447
 
 Gentle introduction to version control:
 https://www.chronicle.com/blogs/profhacker/a-gentle-introduction-to-version-control/23064
