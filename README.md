@@ -9,6 +9,8 @@ What is GitHub?
 Originally created to help people share and build on each other's code, GitHub is what's known as a "version control" system. Version control solves this problem:
 [![a bunch of file names for the same file](images/phd052810s.gif)](http://phdcomics.com/comics/archive.php?comicid=1323)
 
+For people who want to read more about version control, [ProfHacker did a gentle introduction](https://www.chronicle.com/blogs/profhacker/a-gentle-introduction-to-version-control/23064) a while back.
+
 Additionally, GitHub solves the problem of keeping your projects safe&mdash;backed up to the cloud&mdash;and making it easy\* to share and collaborate on with other people.
 
 GitHub is only one of the many version control solutions available, but it's probably the most popular, not only with programmers, but with academics of all stripes (technical and non-technical). It has apps for Windows, Mac, and Linux.
@@ -51,34 +53,25 @@ We're going up in scale from "not fancy" to "really fancy," although when I'm ta
 * [Command Line Bootcamp](https://github.com/csheldonhess/c4l16-cli-workshop) - A colleague and I (so you can see that this is an example of a project with forks) built this together and co-ran this workshop a couple of years ago. Other people have forked it, changed it, and re-run it their own way. 
 
 ### Using GitHub to serve static webpages
-* https://evanwill.github.io/make-oer
-* https://swcarpentry.github.io/git-novice/
-* https://jupyter4edu.github.io/jupyter-edu-book/
+* [Make OER](https://evanwill.github.io/make-oer) - A website created for a workshop at a library conference last year, with some good content about making OERs with GitHub. You can fork it and create your own version from [his GitHub site](https://github.com/evanwill/make-oer). As the theme name ("workshop-template-b") implies, the theme he used was probably designed for building teaching websites.
+* [Software Carpentry - Git Novice](https://swcarpentry.github.io/git-novice/) - All of Software Carpentry's stuff is put together with GitHub pages; and as an organization, they think a lot about pedagogy and inclusiveness in a technology classroom. You could do worse, looking for a place to teach yourself Git. And, again, it's all hosted right on [GitHub](https://github.com/swcarpentry), so you can download, edit, and reuse any of it (with attribution).
+* [Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/) - Again, it's built on GitHub pages and accessible via [GitHub](https://github.com/jupyter4edu/jupyter-edu-book), but here we have something that's designed to act much more like a book than a website. (And again, it's very good.)
 
 
-### Honorable mention: syllabi in GitHub 
+### Honorable mentions: 
+
+#### Syllabi shared on GitHub:
 (This concept has been stuck in my head since I read [the ProfHacker article on it](https://www.chronicle.com/blogs/profhacker/forking-your-syllabus/39137). There's also a [howto](https://www.chronicle.com/blogs/profhacker/how-to-fork-a-syllabus-on-github/39447).)
 
 * [MO4971 City in East and Southeast Asia 1850-1950](https://github.com/kmlawson/city-in-east-and-southeast-asia) - Most of the content is in Markdown files, but there's a LaTeX file, as well.
 * [Public Opinion, Political Psychology and Citizenship](https://github.com/leeper/opinioncourse) - A few of the course materials seem to be included in this one, actually, not just the syllabus. It also has a "[why GitHub](https://github.com/leeper/opinioncourse/blob/gh-pages/fork.md)" section, which is cool.
 
-In process; ignore
-------------------------
-Examples of GitHub-based learning objects (the first is, itself, a GitHub-based learning object):
-https://evanwill.github.io/make-oer/content/3-examples.html
-https://jupyter4edu.github.io/jupyter-edu-book/
-https://swcarpentry.github.io/git-novice/
-https://github.com/thomsen-m/FAM-OER
-http://peeragogy.github.io/
-
-Writing an article on GitHub:
+#### Wired's meta-article about writing an article on GitHub:
 https://www.wired.com/2012/02/github-revisited/
 
+#### A cheatsheet on Markdown:
+* [Markdown Here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - This gets stuck down in honorable mentions because I don't want to go into the difference between a GitHub repo and a GitHub wiki, but I still want you to have access to this very good reference for Markdown syntax.
 
-Gentle introduction to version control:
-https://www.chronicle.com/blogs/profhacker/a-gentle-introduction-to-version-control/23064
 
- Markdown cheatsheet:
- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 [![This work is licensed under Creative Commons Attribution ShareAlike](images/CC-BY-SA_icon.png)](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
